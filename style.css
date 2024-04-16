@@ -81,6 +81,7 @@ body{
     width: 100%;
     outline: none;
     border: 1px solid gray;
+    border-bottom-width: 2.5px;
     border-radius: 5px;
     font-size: 15px;
     padding: 0 15px;
